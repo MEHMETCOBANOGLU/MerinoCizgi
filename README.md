@@ -80,17 +80,17 @@ Bu proje, ölçeklenebilir ve sürdürülebilir bir yapı için **Clean Architec
 
 <!-- 1. geniş ekran -->
 <p align="center">
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba698960-74df-4f36-b107-a0209341a119" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/MEHMETCOBANOGLU/MerinoCizgi/blob/main/ss1.png" />
 </p>
 
 <!-- 2. geniş ekran -->
 <p align="center">
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9c7667be-9096-4b83-923c-91778a144a6c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/MEHMETCOBANOGLU/MerinoCizgi/blob/main/ss2.png" />
 </p>
 
 <!-- 3. geniş ekran -->
 <p align="center">
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7528139e-9ae6-44ee-855e-082267b51378" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/MEHMETCOBANOGLU/MerinoCizgi/blob/main/ss3.png" />
 </p>
 
 ## 👤 Geliştirici
